@@ -3,7 +3,7 @@
   "version": "1.1.2",
   "ignore": [],
   "dependencies": {
-    "jquery": "*",
-    "moment": "*"
+    "jquery": ">= 1.9.0",
+    "moment": ">= 2.6.0"
   }
 }
